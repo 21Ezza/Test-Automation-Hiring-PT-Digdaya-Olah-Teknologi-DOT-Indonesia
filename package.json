@@ -1,7 +1,7 @@
 {
-    "name": "hiring-dot-selenium",
+    "name": "hTest-Automation-Hiring-PT-Digdaya-Olah-Teknologi-DOT-Indonesia",
     "version": "1.0.0",
-    "description": "Automation Testing Test From DOT Indonesia",
+    "description": "",
     "main": "index.js",
     "scripts": {
         "generate": "mocha -r dotenv/config --no-timeouts --reporter allure-mocha",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/galih-bagus/Hiring-Dot-Automation-Web.git"
+        "url": "https://github.com/21Ezza/Test-Automation-Hiring-PT-Digdaya-Olah-Teknologi-DOT-Indonesia"
     },
     "keywords": [
         "Automation",
@@ -19,12 +19,12 @@
         "Selenium",
         "Javascript"
     ],
-    "author": "galih-bagus",
+    "author": "eza-nanda",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/galih-bagus/Hiring-Dot-Automation-Web/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/galih-bagus/Hiring-Dot-Automation-Web#readme",
+    "homepage": "",
     "dependencies": {
         "allure-commandline": "^2.29.0",
         "allure-mocha": "^3.0.0-beta.7",
